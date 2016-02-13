@@ -1,0 +1,3 @@
+class DenemeSinif:
+	a = "t"
+
